@@ -1,0 +1,34 @@
+{
+  "name": "dataset",
+  "version": "1.0.0",
+  "description": "Dataset repo of duyetdev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duyetdev/dataset.git"
+  },
+  "keywords": [
+    "repo",
+    "dataset",
+    "machine",
+    "learning",
+    "ml",
+    "deep-learning",
+    "neural",
+    "networks",
+    "olap"
+  ],
+  "author": "Van-Duyet Le <me@duyetdev.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duyetdev/dataset/issues"
+  },
+  "homepage": "https://github.com/duyetdev/dataset#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-directory-to-html": "^0.2.0"
+  }
+}
