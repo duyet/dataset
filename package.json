@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/duyetdev/dataset#readme",
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-directory-to-html": "^0.2.0"
+    "grunt": "0.4.5",
+    "grunt-directory-to-html": "0.2.0"
   }
 }
